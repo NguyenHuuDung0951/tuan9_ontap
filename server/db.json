@@ -1,0 +1,93 @@
+
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Đắc Nhân Tâm",
+      "author": "Dale Carnegie",
+      "category": "Kỹ năng",
+      "price": 86000,
+      "stock": 5,
+      "rating": 8.7,
+      "cover": "https://picsum.photos/seed/book1/300/450",
+      "description": "Nghệ thuật thu phục lòng người."
+    },
+    {
+      "id": "2",
+      "title": "Nhà Giả Kim",
+      "author": "Paulo Coelho",
+      "category": "Tiểu thuyết",
+      "price": 79000,
+      "stock": 3,
+      "rating": 8.9,
+      "cover": "https://picsum.photos/seed/book2/300/450",
+      "description": "Hành trình theo đuổi giấc mơ."
+    },
+    {
+      "id": "3",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Công nghệ",
+      "price": 350000,
+      "stock": 2,
+      "rating": 9.1,
+      "cover": "https://picsum.photos/seed/book3/300/450",
+      "description": "Viết mã sạch, dễ đọc, dễ bảo trì."
+    },
+    {
+      "id": "4",
+      "title": "Tuổi Trẻ Đáng Giá Bao Nhiêu",
+      "author": "Rosie Nguyễn",
+      "category": "Kỹ năng",
+      "price": 90000,
+      "stock": 10,
+      "rating": 8.2,
+      "cover": "https://picsum.photos/seed/book4/300/450",
+      "description": "Sách dành cho người trẻ đang tìm hướng đi."
+    },
+    {
+      "id": "5",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "category": "Lịch sử",
+      "price": 215000,
+      "stock": 4,
+      "rating": 9.0,
+      "cover": "https://picsum.photos/seed/book5/300/450",
+      "description": "Lược sử loài người."
+    },
+    {
+      "id": "6",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Kỹ năng",
+      "price": 189000,
+      "stock": 0,
+      "rating": 9.2,
+      "cover": "https://picsum.photos/seed/book6/300/450",
+      "description": "Thay đổi tí hon, hiệu quả bất ngờ."
+    },
+    {
+      "id": "7",
+      "title": "Cho Tôi Xin Một Vé Đi Tuổi Thơ",
+      "author": "Nguyễn Nhật Ánh",
+      "category": "Văn học Việt Nam",
+      "price": 80000,
+      "stock": 7,
+      "rating": 8.8,
+      "cover": "https://picsum.photos/seed/book7/300/450",
+      "description": "Ký ức tuổi thơ trong trẻo."
+    },
+    {
+      "id": "8",
+      "title": "The Pragmatic Programmer",
+      "author": "Hunt & Thomas",
+      "category": "Công nghệ",
+      "price": 420000,
+      "stock": 1,
+      "rating": 9.0,
+      "cover": "https://picsum.photos/seed/book8/300/450",
+      "description": "Từ thợ code thành bậc thầy."
+    }
+  ]
+}
